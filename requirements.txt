@@ -4,3 +4,7 @@ python-dotenv
 scikit-learn 
 joblib
 statsmodels
+pandas
+pandas_ta
+numba
+tqdm
